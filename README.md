@@ -1,6 +1,6 @@
 "# login_logout_register_phpmysqlhtml" 
 
-Login Logout Register in PHP MySQL HTML FORM
+Login Logout Register in PHP MySQL WITH HTML FORM
 =============================================
 
 In this Baisc PHP MySQL Tutorial
